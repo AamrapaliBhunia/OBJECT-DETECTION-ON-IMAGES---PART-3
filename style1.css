@@ -1,0 +1,35 @@
+body{
+
+    background-size: cover;
+
+    background-position: center;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px hsl(297, 95%, 15%);
+    border-radius: 15px;
+}
+
+a{
+    float: right;
+    background-color: black;
+    margin-right: 55px;
+    margin-top: 20px;
+    padding: 10px;
+    padding-bottom: 35px;
+    width: 90px;
+    height: 35px;
+    border-radius: 15px;
+    color: white;
+    font-size: 20px;
+    box-shadow: 10px 10px 10px peru;
+}
+
+.heading{
+
+    color: black;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
